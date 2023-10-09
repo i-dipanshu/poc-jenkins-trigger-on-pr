@@ -1,1 +1,2 @@
 A updated sample txt file.
+New Line
