@@ -1,1 +1,1 @@
-A updated sample txt file.
+A sample txt file.
