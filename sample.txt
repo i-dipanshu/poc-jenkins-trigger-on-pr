@@ -1,2 +1,2 @@
 A updated sample txt file.
-New Line Starts here
+New Line 
